@@ -4,7 +4,7 @@ CVE-2022-0847 POC - https://dirtypipe.cm4all.com/
 ## Description
 This exploit attempts to use the `CVE-2022-0847` vulnerability to overwrite a read only file.
 
-The `./exploit.sh` file will:
+The `./exploit.sh` script will:
 1. Create a `read_only_file.txt`
 2. Execute the `dirtypipe` exploit.
 3. Check if the `dirtypipe` exploit worked.
