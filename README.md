@@ -9,7 +9,7 @@ The `./exploit.sh` file will:
 2. Execute the `dirtypipe` exploit.
 3. Check if the `dirtypipe` exploit worked.
 ---
-Before exploitation, the `read_only_file.txt` will contain:
+Before running the exploit, the `read_only_file.txt` will contain:
 ```
 This is a read only file...
 ```
