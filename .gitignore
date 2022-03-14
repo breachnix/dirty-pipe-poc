@@ -1,0 +1,4 @@
+bin/
+obj/
+
+read_only_file.txt
