@@ -1,4 +1,4 @@
 bin/
 obj/
-
+.DS_Store
 read_only_file.txt
